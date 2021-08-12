@@ -1,0 +1,19 @@
+{
+  "name": "config-react",
+  "version": "1.0.0",
+  "description": "Configuring Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testyes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dame1541/Config-React.git"
+  },
+  "author": "Amanda Eriksson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dame1541/Config-React/issues"
+  },
+  "homepage": "https://github.com/Dame1541/Config-React#readme"
+}
