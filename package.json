@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Dame1541/Config-React#readme",
   "dependencies": {
     "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.7.2"
   }
 }
