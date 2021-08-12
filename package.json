@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dame1541/Config-React/issues"
   },
-  "homepage": "https://github.com/Dame1541/Config-React#readme"
+  "homepage": "https://github.com/Dame1541/Config-React#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
 }
